@@ -1,0 +1,3 @@
+# Large binary packages are distributed via GitHub Releases Assets
+*.zip
+*.exe
