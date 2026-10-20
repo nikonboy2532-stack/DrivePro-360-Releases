@@ -22,9 +22,9 @@
 
 ### 🔐 ค่าความปลอดภัยตรวจสอบไฟล์ (SHA256 Checksums)
 - `DrivePro360_v1.0.0_Standalone.zip`:  
-  `BF2DB233B8B32C26221DEC82E0664EE9631BD7B7853B0ED61BAEF262E42E34D9`
+  `096CA002FF70E692C112E2B4C5E2B956C3135C3993E2AB227DBD889C9BE00126`
 - `DrivePro360_v1.0.0_Portable.zip`:  
-  `E92C1CE71E14AE237023B173D261C0A2B6C9192D30C026AC5B32D1B4F3D2DC2C`
+  `EEC5B0F2FDF6F32BB92042C600CB70E146DBA120335AFC150680ECBD1B7FB59D`
 
 ---
 
@@ -44,6 +44,11 @@
 - **🎛️ Laser Pot Calibrator**: ระบบคำนวณและวัดค่าความต้านทานโอห์มหัวอ่านเลเซอร์ (HOP-141X, HOP-15XX)
 - **⚡ Kamikaze Drill Live Monitor**: ตรวจสอบสถานะ SPI Register 0x8C -> 0x00 ขณะเจาะชิปแบบเรียลไทม์พร้อมเสียงไซเรนเตือน
 - **📦 Embedded CFW Library**: รวมรอม Stock และ LT-Plus 3.0 ครบ 110 ไฟล์ ออโต้โหลดและสปูฟให้อัตโนมัติ
+- **🧬 NAND Re-Pairing Wizard**: กู้คืน DVD Key จากไฟล์ NAND Dump / kv.bin ผ่าน CPU Key ด้วย HMAC-SHA1 + RC4 จับคู่เปลี่ยนไดรฟ์ใหม่ได้แม้ไดรฟ์เก่าเสียหรือสูญหาย
+- **📀 Hitachi-LG 7-in-1 Engine**: รองรับไดรฟ์ Hitachi GDR-3120L (v32 - v79) พร้อม Software Mode-B Trigger และ 79 Audio Unlock
+- **📈 Optical Disc Benchmark**: ทดสอบความเร็วอ่านแผ่นจริง (CAV Speed 4x - 12x), Latency และทดสอบข้าม Layer Break แผ่น XGD2/XGD3
+- **💾 x360key / ODE Exporter**: ตรวจจับแฟลชไดรฟ์และ MicroSD ส่งออก dummy.bin, key.bin และ xkey.cfg สำหรับกล่องเล่นฮาร์ดดิสก์ในคลิกเดียว
+- **📋 Technician Job Sheet**: ออกใบส่งมอบงานซ่อมและใบรับรองชุดคีย์แท้ HTML & Text พร้อมพิมพ์มอบให้ลูกค้าอย่างมืออาชีพ
 - **🔄 Auto-Updater**: ระบบตรวจสอบเวอร์ชันใหม่ผ่าน GitHub Releases โดยตรง
 
 ---
@@ -64,4 +69,4 @@
 
 ---
 
-© 2026 P.D. PROVIDE CO., LTD. / พัฒนาโดย บริษัท พี.ดี. โปรไวด์ จำกัด
+© 2026 DrivePro 360 | พัฒนาโดย ทีมงานผู้พัฒนาอิสระ (Independent Developer) | ติดต่อ: nikonboy2532@gmail.com
