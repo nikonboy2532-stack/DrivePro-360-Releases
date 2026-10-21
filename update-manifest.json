@@ -7,7 +7,7 @@
   "PublishedUtc": "2026-10-20T09:00:00Z",
   "Artifact": "DrivePro360_v1.0.0_Standalone.zip",
   "DownloadUrl": "https://github.com/nikonboy2532-stack/DrivePro-360-Releases/releases/download/v1.0.0/DrivePro360_v1.0.0_Standalone.zip",
-  "SizeBytes": 88610190,
-  "Sha256": "9B8753E9BF3E519793381CA16D3E9F236F324335176208DFECEAECB2F4450ED9",
+  "SizeBytes": 88614223,
+  "Sha256": "77B86A91683F1D2AA9A0D5AD2D74900F9D5B88BB903F040F8BC95DC55156E4FE",
   "Notes": "DrivePro 360 Official Release v1.0.0 (X360USB Pro Special Edition)\r\n- Zero PortIO dependencies (Pure USB Direct via X360USB Pro v1/v2)\r\n- Full support for Lite-On DG-16D4S SlimKey and DG-16D2S PhatKey\r\n- MTK Flash Engine: Read/Write 256KB ROM, Chip Erase & Unlock\r\n- 5 New Pro Tools: NAND Re-Pairing Wizard, Hitachi-LG 7-in-1 Engine, Optical Disc Benchmark, x360key ODE Exporter, and Technician Job Sheet\r\n- Bilingual UI (Thai / English) & Modeless Guide\r\n- PromptPay & PayPal Donation integration\r\n- Customer Vault, Laser Calibration & Kamikaze Drill Monitor"
 }
